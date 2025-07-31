@@ -1,0 +1,67 @@
+/* text align */
+p{
+    text-align: left;
+}
+h3{
+    text-align: center;
+    text-decoration:line-through
+}
+/* text decoration */
+#one{
+    text-decoration:underline;
+}
+#two{
+    text-decoration:dashed underline 
+}
+#three{
+    text-decoration:dotted underline;
+}
+#four{
+    text-decoration:wavy underline;
+}
+#five{
+    text-decoration:overline;
+}
+#six{
+    text-decoration:line-through;
+}
+/* text property */
+#one{
+    font-weight: 200;
+}
+#two{
+    font-weight: 400;
+}
+#three{
+    font-weight: 600;
+}
+#four{
+    font-weight: 800;
+}
+#five{
+    font-weight: 900;
+}
+#six{
+    font-weight: 1000;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two{
+    font-family: 'Courier New', Courier, monospace;
+}
+#three{
+    font-family: 'Times New Roman', Times, serif;
+}
+#four{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#five{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#six{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+}
+p{
+    font-family: monospace;
+}

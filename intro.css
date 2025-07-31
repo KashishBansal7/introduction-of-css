@@ -1,4 +1,21 @@
+              /* all selector */
+/* element selector */
+*{
+    color:rgb(245, 4, 44);
+}
+/* element selector */
 h1{
-    color:red;
-    background-color:ffff00;
+    color: rgb(189, 86, 103);
+}
+/* id selector */
+#heading1{
+    color:rgb(153, 28, 49)
+}
+/* class selector */
+.myclass{
+    color: rgb(30, 110, 90);
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    color: red;
 }
